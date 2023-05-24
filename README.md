@@ -1,2 +1,5 @@
 # IMGuRGP-Converter
-From IMG to rUGP format converter
+From IMG (jpg, png, ...) to rUGP format converter
+
+# References
+* https://github.com/eplightning/afhook
