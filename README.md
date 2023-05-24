@@ -1,4 +1,4 @@
-# IMGuRGP-Converter
+# IMGrUGP-Converter
 From IMG (jpg, png, ...) to rUGP format converter
 
 # References
